@@ -33,6 +33,8 @@ US 3:
 Tests
 =================
 
+[Unit tests](https://github.com/YasserTahri/KATA_BANK_SYSTEM/blob/master/src/test/java/OperationsTest.java)
+
 Statement printing: 
 
 My Transactions
@@ -57,4 +59,4 @@ Comment: DEPOSIT FAILED !
 
 ********************************************************************** 
 
-[Unit tests](https://github.com/YasserTahri/KATA_BANK_SYSTEM/blob/master/src/test/java/OperationsTest.java)
+
