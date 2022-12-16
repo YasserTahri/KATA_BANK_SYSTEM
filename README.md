@@ -13,4 +13,28 @@ Goal
 Tests
 =================
 
+Statement printing: 
+
+My Transactions
+
+Transaction type: Withdrawal -  Date: 2022-12-23 04:10
+
+amount: 100.0
+
+Balance: 900.0
+
+********************************************************************** 
+Transaction type: Deposit -  Date: 2022-12-21 20:45
+
+amount: 500.0
+
+Balance: 1400.0
+
+********************************************************************** 
+Transaction type: Deposit - 2022-12-21 20:45
+
+Comment: DEPOSIT FAILED !
+
+********************************************************************** 
+
 [Unit tests](https://github.com/YasserTahri/KATA_BANK_SYSTEM/blob/master/src/test/java/OperationsTest.java)
